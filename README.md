@@ -10,7 +10,7 @@ Este projeto consiste em um script Python desenvolvido utilizando os princípios
 
 🛠️ Tecnologias Utilizadas
 
-    Python 3.x
+    Python 3.14
 
     Rich (Biblioteca para renderização de conteúdo rico no terminal)
 
