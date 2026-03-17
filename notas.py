@@ -12,7 +12,7 @@ class Nota:
         #Verifica se o argumento args foi passado
         if not self.notas:
             return 0
-        
+    
         #Calcula a média das notas
         return sum(self.notas) / len(self.notas)
 
@@ -38,5 +38,7 @@ class Nota:
 
         print(painel)
 
+#passar os argumentos para o init
 a1 = Nota('Adiel de freitas santiago', 6, 9, 7)
+#chamar os métodos
 a1.analisar()
