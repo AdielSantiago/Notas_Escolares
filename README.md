@@ -1,4 +1,4 @@
-# repositorio notas
+# repositório notas
 Este projeto consiste em um script Python desenvolvido utilizando os princípios de Programação Orientada a Objetos (POO) para realizar o cálculo da média de um aluno, com uma interface de terminal aprimorada.
 🚀 Funcionalidades
 
